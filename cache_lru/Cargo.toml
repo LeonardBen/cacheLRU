@@ -1,0 +1,8 @@
+[package]
+name = "cache_lru"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "cache_lru"
+path = "src/lib.rs"
